@@ -10,7 +10,7 @@ aprendizado de máquina asssim como conhecimento de princípios de inteligência
 desenvolver sistemas inteligentes por si próprios.
 ```
 ## 📚 Conteúdo
-* ✔️ [Semana 0: Busca](/Semana%200)
+* ✔️ [Semana 0: Busca](/Week%200)
 * ❌ Semana 1: Conhecimento
 * ❌ Semana 2: Incertezas
 * ❌ Semana 3: Otimização
